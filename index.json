@@ -1,0 +1,15 @@
+{
+  "library": "SGM V2.01",
+  "format": "sf2",
+  "fileCount": 1,
+  "totalSizeBytes": 247406594,
+  "files": [
+    {
+      "file": "SGM-V2.01.sf2",
+      "name": "SGM V2.01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sgm/main/SGM-V2.01.sf2",
+      "size": 247406594,
+      "note": "Direct repo file"
+    }
+  ]
+}
